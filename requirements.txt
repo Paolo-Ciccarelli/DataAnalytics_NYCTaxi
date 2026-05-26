@@ -1,0 +1,11 @@
+jupyter
+matplotlib
+nbconvert
+numpy
+pandas
+pyarrow
+requests
+scikit-learn
+scipy
+seaborn
+xgboost
