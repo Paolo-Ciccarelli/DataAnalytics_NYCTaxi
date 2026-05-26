@@ -5,10 +5,10 @@ This repository contains our COMP 333 final project using the NYC TLC Yellow Tax
 
 ## Team Members
 
-- **Arad Hajari (40242069)**
-- **Noah Burns (40237138)** 
-- **Paolo Ciccarelli (40286203)**
-- **Sang Ho Lee (40229178)**
+- **Arad Hajari**
+- **Noah Burns** 
+- **Paolo Ciccarelli**
+- **Sang Ho Lee**
 ---
 
 **Phase 1 includes:** 
